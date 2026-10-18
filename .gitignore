@@ -1,0 +1,8 @@
+# Compiled objects and local build outputs
+*.o
+/router
+/sender
+
+# Python bytecode
+__pycache__/
+*.py[cod]
